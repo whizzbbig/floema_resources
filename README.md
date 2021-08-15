@@ -1,56 +1,42 @@
 # floema_resources
 In this repo you can find the resources you need to complete the floema course project by Bizarro
 
--- Created by Alexelso --
+#-- Created by Alexelso --
 
-/**
-LOADER
-*/
+## LOADER
 
 The surprise of what is possible
 to make with a simple 
 and thin thread.
 
-/**
-HOME
-*/
+## HOME
 
 Treccia  Vita  Onde  Aria
 
-/**
-LISTING 1
-*/
+## LISTING 1
 
 Aria Collection
 
 The oval shape represents perfection, balance, and elegance.
 It is enriched by fantastic filigree workmanship, and a small precious sphere made of metal in the center. Light and minima, the Aria collection earrings are perfect to wear on every occasion
 
-/**
-LISTING 2
-*/
+## LISTING 2
 Treccia Collection
 
 Every single piece of this collection is created handwaving several precious threads. Some of the twines contain precious and colorful stones, set by the Florentine master Marco with a special technique. 
 The result is an invisible setting that lets the stone-free to shine. 
 
-/**
-LISTING 3
-*/
+## LISIING 3
 Onde Collection
 
 The fluid movement of the elements of this collection joins the soft shapes of the filigree, that look like floating in the structures. The repetition of the waves creates big but incredibly light earrings, comfortable to wear because almost imperceptible. 
 
-/**
-LISTING 4
-*/
+## LISTING 4
 Vita Collection
 
 The organic structure of the Life collection contains minute shapes created with precious metal threads, all different from each other, and small gold or silver spheres, that unveil themselves with the light reflection. 
 
-/**
-DETAIL
-*/
+## DETAIL
 Silver Necklace
 
 The necklace is 44 cm long. 
@@ -61,9 +47,7 @@ The necklace is completely made in Sterling Silver.
 Each FLOEMA jewel is entirely handmade: any difference from the original picture evidences the unique and artisanal manufacture 
 of the piece.
 
-/**
-DETAIL FLIP IMAGE
-*/
+## DETAIL FLIP IMAGE
 The necklace is 44 cm long. 
 The setting is 5 mm long and 4 mm wide.
 Silver. Ruby Stone
@@ -73,9 +57,7 @@ Each FLOEMA jewel is entirely handmade: any difference from the original picture
 of the piece.
 
 
-/**
-ABOUT
-*/
+## ABOUT
 Creating new dialogues 
 between threads and metal
 
