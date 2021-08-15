@@ -1,4 +1,4 @@
-# floema_resources
+# FLOEMA__RESOURCES
 In this repo you can find the resources you need to complete the floema course project by Bizarro
 
 #-- Created by Alexelso --
